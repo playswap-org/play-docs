@@ -1,6 +1,7 @@
 input: .
 output: .retype
 url: https://docs.playswap.org
+favicon: favicon.png
 branding:
   title: PlaySwap
   label: Docs
