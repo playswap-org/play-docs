@@ -17,14 +17,14 @@ Burn details 🔥:
 * 20% of the trading fees are used to buy back tokens and burn them 
 * 80% of the auto compound Play pool fees will be burned
 * 100% of the Play2Earn fees will be burned
-* 50% of the profits generated in gaming related activities will be burned
+* 50% of the profits generated in all other gaming related activities will be burned
 
 ## Let's explore some of the many use cases below:
 * You can buy/sell PLAY from our exchange
 * Earn PLAY as rewards from playing your favorite videogames
 * Earn PLAY as rewards from staking LP tokens in our farms
 * Stake it in your PLAY pools to earn PLAY and other tokens
-* Use play to buy-in to gaming tournaments
+* Use PLAY to buy-in to gaming tournaments
 
 And many more in the future.
 

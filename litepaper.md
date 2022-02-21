@@ -66,7 +66,7 @@ Burn details 🔥:
 * 20% of the trading fees are used to buy back tokens and burn them 
 * 80% of the auto compound Play pool fees will be burned
 * 100% of the Play2Earn fees will be burned
-* 50% of the profits generated in gaming related activities will be burned
+* 50% of the profits generated in all other gaming related activities will be burned
 
 ## Let's explore some of the many use cases below:
 * You can buy/sell PLAY from our exchange
@@ -115,10 +115,10 @@ Crypto moves fast, and we move fast too. Therefore don't be surprised if we add 
 
 |Q1 2022|Q2 2022|Q3 2022|Q4 2022|Q1 2023|Ongoing|
 |---|----|---|---|---|---|
-|Public sale|Code audit|First gaming tournament|Initial Game oferings|Global expansion|Marketing campaigns|
-|Launch token|Play2Earn beta testing|Play2Earn improvements|GameFi Partnerships|Gaming platform|CEX listings|
-|Launch swap|Play2Earn mainnet launch|Trading competition|Stream2Earn|Key gaming partnerships|Governance|
-|Marketing campaingns|Blockchain academy content|CEX listings|eSports partnerships|Marketing campaigns|Strategic partnerships|
+|Public sale|Code audit|First gaming tournament|Initial Game offerings|Global expansion|Marketing campaigns|
+|Launch token|Play2Earn beta testing|Play2Earn improvements|GameFi Partnerships|Gaming/tournaments platform|CEX listings|
+|Launch swap|Play2Earn mainnet launch|CEX listings|Stream2Earn|Key gaming partnerships|Governance|
+|Marketing campaingns|Blockchain academy content|Community growth|eSports partnerships|Marketing campaigns|Strategic partnerships|
 |Community growth|CMC/Coingecko listing|||NFTMarketplace|Community growth|
 
 
@@ -172,7 +172,7 @@ The public sale is divided in 3 phases (levels):
 | Level | Start | End | Lock up period | Payout | Available tokens | Price in CRO |Price in USDC|
 |---|---|---|---|---|---|---|---|
 | Level 1 | 04/09/2022 | 04/13/2022 | 12 months | 50% + 6 months linear | 5M PLAY | TBD*  |0.1 USDC|
-| Level 2 | 04/16/2022 | 04/20/2022 | 6 months | 50% + 6 months linear | 3.75M PLAY | TBD* |0.2 USDC|
+| Level 2 | 04/16/2022 | 04/20/2022 | 6 months | 50% + 3 months linear | 3.75M PLAY | TBD* |0.2 USDC|
 | Level 3 | 04/23/2022 | 04/27/2022 | 3 months | 100% | 1.25M PLAY | TBD*|0.4 USDC|
 
 *To make your life easier you can pay with CRO or USDC when buying tokens in the public sale. The CRO price will be defined at the start of each level of the public sale.
@@ -196,7 +196,7 @@ This is the final opportunity to buy PLAY tokens with a discount.
 ## How big is the discount? 
 - The initial liquidity will be set with a price of 0.5 USDC per PLAY token. As you can see the discount of the sale is massive and can generate you massive profits just by holding the tokens.
 
-## Interested? Click here to buy now.
+## Interested? [Click here to buy now](https://playswap.org).
 
 # What do you need to invest?
 

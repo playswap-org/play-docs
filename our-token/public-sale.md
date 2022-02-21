@@ -24,7 +24,7 @@ The public sale is divided in 3 phases (levels):
 | Level | Start | End | Lock up period | Payout | Available tokens | Price in CRO |Price in USDC|
 |---|---|---|---|---|---|---|---|
 | Level 1 | 04/09/2022 | 04/13/2022 | 12 months | 50% + 6 months linear | 5M PLAY | TBD*  |0.1 USDC|
-| Level 2 | 04/16/2022 | 04/20/2022 | 6 months | 50% + 6 months linear | 3.75M PLAY | TBD* |0.2 USDC|
+| Level 2 | 04/16/2022 | 04/20/2022 | 6 months | 50% + 3 months linear | 3.75M PLAY | TBD* |0.2 USDC|
 | Level 3 | 04/23/2022 | 04/27/2022 | 3 months | 100% | 1.25M PLAY | TBD*|0.4 USDC|
 
 *To make your life easier you can pay with CRO or USDC when buying tokens in the public sale. The CRO price will be defined at the start of each level of the public sale.
@@ -57,7 +57,6 @@ This is the final opportunity to buy PLAY tokens with a discount.
 To use the blockchain you will always have to pay GAS fees. These fees are paid in CRO. Therefore you should always have a bit of CRO in your wallet. No worries, the GAS fees are small and a balance of 10 CRO is more than enough to keep in your wallet.
 - After you send the funds to your wallet, you just need to visit our website and that's it. 
 
-## Already have a wallet? Click here to buy now.
 
 Let us know if you have any questions and we will be happy to help you.
 

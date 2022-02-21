@@ -10,7 +10,8 @@ We are looking for partnerships with:
 - Crypto content creators
 - eSports teams
 - eSports events
-- Game developers
+- Game Developers
+- Game Studios
 
 Do you believe in our vision and think you have what it takes to help us grow our community? Contact us using this email: marketing @ playswap.org or in our [Discord](https://discord.gg/8v7Fd7PG9K).
 

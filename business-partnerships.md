@@ -33,7 +33,7 @@ PlaySwap Launchpool and Farms are platforms that help project teams promote thei
 Anyone can list any CRO token on PlaySwap. There is no need to contact our team or ask for permission. Everything you need to do is to add liquidity to the liquidity pool. Once added, users can trade your token by entering your token’s contract address. 
 
 ### - Is it possible to add my token to the default list?  
-PlaySwap does not accept requests to add tokens to the approved list. In order for your token to be added to the default list, you will need to apply for the Launchpool. 
+PlaySwap does not accept requests to add tokens to the approved list. In order for your token to be added to the default list, you will need to contact us.
 
 If you would like to start any of the partnerships above, send us an email to marketing @ playswap.org or contact us directly on [Discord](https://discord.gg/8v7Fd7PG9K).
 

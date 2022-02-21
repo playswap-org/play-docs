@@ -6,10 +6,10 @@ Crypto moves fast, and we move fast too. Therefore don't be surprised if we add 
 
 |Q1 2022|Q2 2022|Q3 2022|Q4 2022|Q1 2023|Ongoing|
 |---|----|---|---|---|---|
-|Public sale|Code audit|First gaming tournament|Initial Game oferings|Global expansion|Marketing campaigns|
-|Launch token|Play2Earn beta testing|Play2Earn improvements|GameFi Partnerships|Gaming platform|CEX listings|
-|Launch swap|Play2Earn mainnet launch|Trading competition|Stream2Earn|Key gaming partnerships|Governance|
-|Marketing campaingns|Blockchain academy content|CEX listings|eSports partnerships|Marketing campaigns|Strategic partnerships|
+|Public sale|Code audit|First gaming tournament|Initial Game offerings|Global expansion|Marketing campaigns|
+|Launch token|Play2Earn beta testing|Play2Earn improvements|GameFi Partnerships|Gaming/tournaments platform|CEX listings|
+|Launch swap|Play2Earn mainnet launch|CEX listings|Stream2Earn|Key gaming partnerships|Governance|
+|Marketing campaingns|Blockchain academy content|Community growth|eSports partnerships|Marketing campaigns|Strategic partnerships|
 |Community growth|CMC/Coingecko listing|||NFTMarketplace|Community growth|
 
 

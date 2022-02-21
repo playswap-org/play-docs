@@ -4,7 +4,7 @@
 - [Cronos bridge](https://cronos.org/bridge) - Read the [Tutorial](https://cronos.org/docs/bridge/webapp.html#transfer-assets-from-crypto-org-chain-using-cronos-bridge-web-app) 
 
 ### Mobile users:
-- Metamask mobile app: [Cronos bridge](https://cronos.org/bridge)
+- Using Metamask mobile app browser: [Cronos bridge](https://cronos.org/bridge)
 - Crypto.com DeFi wallet app: You will find the bridge inside the app. Read the [Tutorial](https://cronos.org/docs/bridge/defiwallet.html#transfer-assets-from-crypto-org-chain-using-crypto-com-defi-wallet-in-built-cronos-bridge-ui)
 
 ### Desktop wallet users:

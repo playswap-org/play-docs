@@ -14,7 +14,7 @@ There will be four deflationary machanisms in place:
 * 20% of the trading fees are used to buy back PLAY tokens and burn them 
 * 80% of the auto compound Play pool fee will be burned
 * 100% of the Play2Earn fees will be burned
-* 50% of the profit generated in gaming related activities will be burned
+* 50% of the profit generated in all other gaming related activities will be burned
 
 ## PLAY token burn will occur once a month.
 - Even though PLAY token burn occurs once a month, PLAY token buyback happens during the month and the final monthly burn report is shared on a monthly basis.
