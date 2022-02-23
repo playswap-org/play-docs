@@ -1,8 +1,10 @@
 {
   "scripts": {
-    "build": "retype build"
+    "build": "retype build && md-to-pdf whitepaper.md --config-file pdf-config/config.js"
   },
   "dependencies": {
+    "md-to-pdf": "^5.1.0",
+    "move-file-cli": "^3.0.0",
     "retypeapp": "^1.11.2"
   }
 }

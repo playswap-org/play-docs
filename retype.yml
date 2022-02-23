@@ -10,6 +10,8 @@ links:
   link: https://playswap.org
 - text: Discord
   link: https://discord.gg/8v7Fd7PG9K
+- text: Whitepaper PDF
+  link: https://docs.playswap.org/assets/docs/whitepaper.pdf
 footer:
   copyright: "&copy; Copyright PlaySwap {{ year }}. All rights reserved. PlaySwap is NOT AFFILIATED, AUTHORIZED, LICENSED OR ENDORSED by Playstation, Xbox, Activision Blizzard, Microsoft, Valve, Epic games,  Steam or any other game publisher mention on this website. Activision Publishing, Inc. ACTIVISION, CALL OF DUTY are trademarks of Activision Publishing, Inc. All trademarks, trade images and trade names are the properties of their respective owners."
 exclude:
