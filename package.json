@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "retype build && md-to-pdf whitepaper.md --config-file pdf-config/config.js"
+    "build": "md-to-pdf whitepaper.md --config-file pdf-config/config.js && retype build"
   },
   "dependencies": {
     "md-to-pdf": "^5.1.0",
