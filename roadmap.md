@@ -1,8 +1,8 @@
 # Roadmap 
 
-The Roadmap illustrated below lists the major milestones that have been achieved and the ones that are yet to be accomplished.
+The roadmap below lists the significant milestones already achieved and the ones we plan to accomplish.
 
-Crypto moves fast, and we move fast too. Therefore don't be surprised if we add new to-dos to this roadmap. We value community feedback and this roadmap is not set in stone.
+Crypto moves fast, and we move fast too. Therefore don't be surprised if we add new to-dos to this roadmap. Because we value community feedback, this roadmap might change in the future.
 
 |Q1 2022|Q2 2022|Q3 2022|Q4 2022|Q1 2023|Ongoing|
 |---|----|---|---|---|---|
@@ -15,4 +15,5 @@ Crypto moves fast, and we move fast too. Therefore don't be surprised if we add 
 
 <br>
 
-Would you like to provide us with some feedback or ideas for the roadmap? Drop us a line in the appropriate [Discord channel](https://discord.gg/8v7Fd7PG9K) and we will consider it. If it's an idea well received by the community and we end up developing it, you will get an appropriate reward.
+Would you like to provide us with some feedback or ideas for the roadmap? Drop us a line in the appropriate [Discord channel](https://discord.gg/8v7Fd7PG9K) channel, and we will consider it. Suppose it's an idea well-received by the community, and we end up developing it. In that case, you will get an appropriate reward.
+

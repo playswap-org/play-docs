@@ -12,8 +12,9 @@
 
 ### Crypto.com App and Exchange users:
 
-Cronos chain is enriched by the support of the 10 million+ powerfull community already present on the Crypto.com platforms.
-Therefore it is very simple to bridge funds crom those platforms:
+Cronos chain is enriched by the support of the ten million+ strong community already present on the Crypto.com platforms. 
+
+Therefore it is straightforward to bridge funds from those platforms:
 - Crypto.com App users - [Tutorial](https://cronos.org/docs/bridge/cdcapp.html#transfer-assets-using-crypto-com-app)
 - Crypto.com Exchange users - [Tutorial](https://cronos.org/docs/bridge/cdcex.html#transfer-assets-using-crypto-com-exchange)
 

@@ -1,10 +1,11 @@
 # Connecting a wallet
 
-PlaySwap is a decentralized platform. Therefore, in order to use the platform you will need a non-custodial crypto wallet.
+PlaySwap is a decentralized platform. Therefore, you will need a non-custodial crypto wallet to use the platform.
 
-A crypto wallet is a place where you can hold your assets in your custody. Each time PlaySwap needs to perform a transaction on your behalf, it will need to be confirmed on your wallet for security reasons.
+A crypto wallet is a place where you can hold your assets in your custody. Each time PlaySwap needs to perform a transaction on your behalf, you will confirm it on your wallet for security reasons.
 
-Remember, this a decentralized platform and we will never have custody of your funds.
+Remember, PlaySwap is a decentralized platform, and we will never have custody of your funds.
+
 
 ## Wallets
 - MetaMask: [Official guide](https://metamask.io/)
