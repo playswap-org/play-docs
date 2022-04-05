@@ -22,13 +22,15 @@ This funds will be used to develop the project:
 
 # Public sale details
 
+04/04/2022: Based on community request the public sale is postponed in order to start the P2E beta-testing before the sale.
+
 The public sale is divided in 3 phases (levels):
 
 | Level | Start | End | Lock up period | Payout | Available tokens | Price in CRO |Price in USDC|
 |---|---|---|---|---|---|---|---|
-| Level 1 | 04/09/2022 | 04/13/2022 | 12 months | 50% + 6 months linear | 5M PLAY | TBD*  |0.1 USDC|
-| Level 2 | 04/16/2022 | 04/20/2022 | 6 months | 50% + 3 months linear | 3.75M PLAY | TBD* |0.2 USDC|
-| Level 3 | 04/23/2022 | 04/27/2022 | 3 months | 100% | 1.25M PLAY | TBD*|0.4 USDC|
+| Level 1 | TBD | TBD | 12 months | 50% + 6 months linear | 5M PLAY | TBD*  |0.1 USDC|
+| Level 2 | TBD | TBD | 6 months | 50% + 3 months linear | 3.75M PLAY | TBD* |0.2 USDC|
+| Level 3 | TBD | TBD | 3 months | 100% | 1.25M PLAY | TBD*|0.4 USDC|
 
 *To make your life easier, you can pay with CRO or USDC when buying tokens in the public sale. We will define the CRO price at the start of each level of the public sale.
 
