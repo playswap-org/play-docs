@@ -74,7 +74,7 @@ The final Step is to add the PLAY token contract to your MetaMask network in ord
 
 - Have the Discord APP open (Not the browser)
 - Play any of the [supported games](https://docs.playswap.org/open-beta/supported-games/) 
-- If you are a PlayStation user, you will need to change your privacy settings on the console to allow other users to see what you're currently playing. 
+- If you are a PlayStation user, you will need to [change your privacy settings](https://www.reddit.com/r/discordapp/comments/siprps/psn_status_not_showing_up_in_discord/)  on the console to allow other users to see what you're currently playing. 
 
 ## Enjoy your games!
 
