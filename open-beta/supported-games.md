@@ -38,7 +38,6 @@
 - Geometry Dash
 - Dolphin
 - Terraria
-- Brawlhalla
 - The Walking Dead
 - Sonic Mania
 - Golf With Your Friends
@@ -212,7 +211,7 @@
 - Project CARS
 - Half-Life: C.A.G.E.D.
 - Guitar Hero III: Legends of Rock
-- ROBLOX
+- ROBLOX -> Does not work well with steam. Please use the developer website to download the game
 - Grand Theft Auto San Andreas
 - PAYDAY 2
 - Ballistic Overkill
@@ -1793,7 +1792,7 @@
 - LEGO Harry Potter: Years 5-7
 - Subnautica: Below Zero
 - Ghost Recon Breakpoint
-- Apex Legends
+- Apex Legends -> Does not work well when running the game on Steam. Please use Origin/EA
 - Farming Simulator 19
 - Warhammer: Vermintide 2
 - Anthem™
