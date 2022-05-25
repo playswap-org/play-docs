@@ -1858,3 +1858,8 @@
 - Forza Horizon 5
 - Lost Ark
 - ELDEN RING
+- Killing Floor 2
+- Insurgency: Sandstorm
+- Call of Duty®: Vanguard
+- Rainbow Six Siege
+- Hopefully
