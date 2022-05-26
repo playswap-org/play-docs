@@ -998,7 +998,6 @@
 - MapleStory 2
 - PPSSPP
 - Command & Conquer™: Generals and Zero Hour
-- NoxPlayer
 - Tribes: Ascend
 - Medieval Engineers
 - Cuisine Royale
