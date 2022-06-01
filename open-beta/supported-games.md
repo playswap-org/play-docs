@@ -997,7 +997,6 @@
 - MapleStory 2
 - PPSSPP
 - Command & Conquer™: Generals and Zero Hour
-- NoxPlayer
 - Tribes: Ascend
 - Medieval Engineers
 - Cuisine Royale
@@ -1857,3 +1856,8 @@
 - Forza Horizon 5
 - Lost Ark
 - ELDEN RING
+- Killing Floor 2
+- Insurgency: Sandstorm
+- Call of Duty®: Vanguard
+- Rainbow Six Siege
+- Hopefully
