@@ -48,7 +48,6 @@
 - RuneScape
 - Dead by Daylight
 - War Thunder
-- World of Warships
 - Duelyst
 - Battlefield 1
 - The Binding of Isaac: Rebirth
