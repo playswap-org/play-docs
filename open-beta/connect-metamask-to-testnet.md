@@ -1,4 +1,4 @@
-# How to connect your MetaMask to Cronos Testnet
+# How to connect your MetaMask to BNB chain Testnet
 
 Click on ADD NETWORK on your Metamask,
 
