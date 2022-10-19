@@ -10,7 +10,7 @@ There will be more opportunities in the future: PlaySwappers will be able to sta
 Holders PLAY Pool  is a less resource-intensive alternative to mining designed to reward long-term investors and P2E gamers. It lets you use your tokens to earn more tokens for free just like the PLAY pool but it will collet a 25% fee if the user unstake the funds in less than 90 days since the last stake. Simply put, you lock your cryptocurrency to receive rewards and potentialy boost your P2E protocol earnings by 10%.
 
 ## How it works
-Any user that has invested more than the total claims of their P2E earnings will get a P2E earnings boost of 10%. To make your life easier and save you some tokens on fees, we have created a claim feature that allows you to claim directly to the Holders PLAY pool.
+Any user that has invested more than the total claims of their P2E earnings will get a P2E earnings boost of 10%. To make your life easier and save you some tokens on fees, we have created a claim feature that allows you to claim your gaming earnings directly to the Holders PLAY pool.
 
 To give you a quick example:
 
@@ -19,4 +19,4 @@ To give you a quick example:
 To sum up:
 
 * You can claim your earnings directly to the Holders PLAY pool and save money on fees.
-* If you stake more than your lifetime P2E earnings, you will get a 10% boost on your daily P2E earnings.
+* If you stake more than your lifetime gaming earnings, you will get a 10% boost on your daily P2E earnings.

@@ -5,8 +5,8 @@ PlaySwap Farms offer multiple farming opportunities to our users. You can stake 
 **Initial Liquidity Pools (LPs) for farming PLAY tokens:**
 
 
-* PLAY/CRO
-* PLAY/USDC 
+* PLAY/BNB
+* PLAY/BUSD 
 
 
 
