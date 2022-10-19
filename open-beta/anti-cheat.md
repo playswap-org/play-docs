@@ -1,6 +1,6 @@
 # Anti cheat CAPTCHA
 
-In order to avoid "miners" of the P2E protocol, we have enabled an hourly CAPTCHA that must be solved by players in order to keep earning.
+In order to avoid "miners" of the gaming protocol, we have enabled an hourly CAPTCHA that must be solved by players in order to keep earning.
 
 ## Rules:
 

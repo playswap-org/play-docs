@@ -4,7 +4,7 @@
 
 **Hello PlayFam**,
 
-Today is the day we have been waiting for: **Our Play2Earn protocol Open beta is starting NOW!!**
+Today is the day we have been waiting for: **Our gaming protocol Open beta 2.0 is starting NOW!!**
 
 As you know, this is a Beta version of the protocol and we are releasing it to the public to show you the protocol will actually work as we have been advertising it, and to test and gather community feedback to improve the mainnet release of the protocol.
 
@@ -44,13 +44,13 @@ To join our protocol and start earning PLAY you just need to:
 
 3) start playing
 
-If you don’t know how to connect to the Cronos testnet and create your wallet, click [HERE.](https://docs.playswap.org/open-beta/connect-metamask-to-testnet/
+If you don’t know how to connect to the Cronos testnet and create your wallet, click [HERE.](https://docs.playswap.org/open-beta/connect-metamask-to-testnet/)
 
-- For testing purposes, you will be able to claim your earnings once a day.
+- You will be able to claim your earnings once a day.
 
-To interact with the blockchain and claim your tokens you will need to have TCRO. You can use [THIS](https://cronos.org/faucet) faucet to get TCRO.
+To interact with the blockchain and claim your tokens you will need to have BNB. You can use [THIS](https://testnet.binance.org/faucet-smart) faucet to get BNB.
 
-After opening the page you simply need to add your Wallet address and wait for the TCRO to arrive.
+After opening the page you simply need to add your Wallet address and wait for the BNB to arrive.
 
 This is it. Now is the time to test the protocol, share the project with your friends and bring them on to join our community.
 

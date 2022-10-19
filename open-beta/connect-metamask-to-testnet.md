@@ -2,12 +2,12 @@
 
 Click on ADD NETWORK on your Metamask,
 
-- Network name: Cronos Testnet
-- New RPC URL: https://cronos-testnet-3.crypto.org:8545/
-- Chain ID: 338
-- Currency Symbol: TCRO
-- Block Explorer URL: https://cronos.org/explorer/testnet3/
+- Network name: Smart Chain
+- New RPC URL: https://bsc-dataseed.binance.org/
+- Chain ID: 56
+- Currency Symbol: BNB
+- Block Explorer URL: https://bscscan.com
 
-How to request TCRO:
-- Visit: https://cronos.org/faucet
+How to request BNB on testnet:
+- Visit: https://testnet.binance.org/faucet-smart
 - Add your testnet address on the form, verify the captcha and click on “Get Test CRO”

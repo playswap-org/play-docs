@@ -9,8 +9,8 @@ Remember, PlaySwap is a decentralized platform, and we will never have custody o
 
 ## Wallets
 - MetaMask: [Official guide](https://metamask.io/)
-- Crypto.com DeFi wallet: [Official guide](https://crypto.com/eea/defi-wallet)
-- Crypto.com Desktop wallet app: [Official guide](https://crypto.org/desktopwallet)
+- Binance wallet: [Official guide](https://www.bnbchain.org/en/binance-wallet)
+- Official list of supported wallets: [Official guide](https://www.bnbchain.org/en/wallets)
 
 If you have any question regarding this process, feel free to join our [Discord](https://discord.gg/8v7Fd7PG9K) and ask for support in the appropriate channel. 
 

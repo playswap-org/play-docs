@@ -9,9 +9,4 @@ The protocol will support:
  
 ## Games supported.
 
-In order to increase the adoption of the community and to show you the real power of the protocol we have decided to disable the “whitelisted games” and we are happy to announce that we will support 1800+ games right from the start.
-
 Click [HERE](https://docs.playswap.org/open-beta/supported-games/) to check the complete list of supported games.
-
-Sounds good right? 
-
