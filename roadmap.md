@@ -6,14 +6,14 @@ Crypto moves fast, and we move fast too. Therefore don't be surprised if we add 
 
 04/04/2022: The roadmap as been updated based on community request:
 
-|Q1 2022|Q2 2022|Q3 2022|Q4 2022|Q1 2023|Ongoing|
+|Q1 & Q2 2022|Q3 2022|Q4 2022|Q1 2023|Q2 2023|Q4 2022|
 |---|----|---|---|---|---|
-|Marketing campaingns|Play2Earn beta testing|First gaming tournament|Initial Game offerings|Global expansion|Marketing campaigns|
-|Community growth|Play2Earn mainnet launch|Play2Earn improvements|GameFi Partnerships|Gaming/tournaments platform|CEX listings|
-||Public sale|CEX listings|Stream2Earn|Key gaming partnerships|Governance|
-||Launch token|Community growth|eSports partnerships|Marketing campaigns|Strategic partnerships|
-||Launch Swap|CMC/Coingecko listing||NFTMarketplace|Community growth|
-||Code audit|||||
+|Discord bot development|Open Beta Cronos Chain|BNB migration|Mainnet launch|Gaming platform development|Gaming platform launch|
+|Oracle development|BNB migration start|Seed sale|Marketing campaigns|Infrastructure improvements|NFT platform development|
+|Swap development|Contacts with private investors|Open Beta 2.0 on BNB chain|Public sale|Marketing campaigns|Strategic partnerships|
+|Open community|Key partnerships|Referral / Guilds system development|Code audit|Marketing campaigns|CEX listing|
+||||DEX listing|||
+||||Platform redesign|||
 
 
 <br>

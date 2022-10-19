@@ -6,7 +6,7 @@
 ## - [Apply for a Farm or PlayPool](https://docs.playswap.org/business-partnerships/)
 ## - [Contact support](https://discord.gg/8v7Fd7PG9K)
 
-## Play2Earn contacts
+## Gaming infrastructure contacts
 ## - [Apply for Ambassador](https://docs.playswap.org/marketing/)
 ## - [Contact support](https://discord.gg/8v7Fd7PG9K)
 
@@ -17,5 +17,5 @@
 ## - [Telegram group](https://t.me/PlaySwapDeFi)
 ## - [Telegram ANN channel](https://t.me/PlaySwapDefiANN)
 
-#Support 
+# Support 
 ## - [Contact support](https://discord.gg/8v7Fd7PG9K)

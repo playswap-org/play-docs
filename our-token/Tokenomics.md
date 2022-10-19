@@ -7,7 +7,7 @@ PLAY is our native token that powers the entire PLAYverse.
 | Token details | |
 |---|---|
 | Symbol | PLAY |
-| Chain | Cronos blockchain |
+| Chain | BNB blockchain |
 | Max supply | 300M tokens | 
 | Initial circulating supply | 24M tokens | 
 | Initial marketcap | 12M$ - Listing 0.5$ |

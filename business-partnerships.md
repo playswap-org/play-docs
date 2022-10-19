@@ -23,7 +23,7 @@ We can organize a trading competition inside our community to increase your expo
 We will promote your project on our social platforms.
 
 ## Farms
-Farms stimulate users to provide liquidity for your trading pair by distributing PLAY tokens to your pair's LP token holders. Launchpool is a platform where a project owner can distribute tokens to CRONOS users who stake PLAY tokens in the pool. 
+Farms stimulate users to provide liquidity for your trading pair by distributing PLAY tokens to your pair's LP token holders. Launchpool is a platform where a project owner can distribute tokens to BNB chain users who stake PLAY tokens in the pool. 
 
 When a project applies for PlaySwap Launchpool, we can create a new farming pair (subject to discussion).
  
@@ -33,7 +33,7 @@ PlaySwap Launchpool and Farms are platforms that help project teams promote thei
 
 ## Listing on PlaySwap
 
-Anyone can list any CRO token on PlaySwap. There is no need to contact our team or ask for permission. Everything you need to do is to add liquidity to the liquidity pool. Once added, users can trade your token by entering your token's contract address.
+Anyone can list any BNB token on PlaySwap. There is no need to contact our team or ask for permission. Everything you need to do is to add liquidity to the liquidity pool. Once added, users can trade your token by entering your token's contract address.
 
 ### - Is it possible to add my token to the default list?  
 PlaySwap does not accept requests to add tokens to the approved list. You will need to contact us to add your token to the default list.
