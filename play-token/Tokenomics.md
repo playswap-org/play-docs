@@ -22,10 +22,10 @@ Burn details 🔥:
 
 ## Let's explore some of the many token utilities below:
 * You can buy/sell PLAY from our AMM Swap
-* Earn PLAY as rewards from playing your favorite videogames
+* Earn PLAY as rewards from playing your favorite games
 * Earn PLAY as rewards from staking LP tokens in our farms
 * Stake it in your PLAY pools to earn PLAY and other tokens
-* Compete individualy and in teams to participate and organize public/private tournaments using $PLAY
+* Compete individually and in teams to participate and organize public/private tournaments using $PLAY
 * Buy/sell NFTs on the NFT marketplace
 * Use NFTs in the NFT platform
 
