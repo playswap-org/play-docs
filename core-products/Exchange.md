@@ -1,4 +1,4 @@
-# PlaySwap
+# AMM Swap
 
 PlaySwap is an automated market maker (AMM) that allows users to exchange tokens on the BNB blockchain network. 
 

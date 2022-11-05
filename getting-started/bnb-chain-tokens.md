@@ -7,5 +7,5 @@ To operate on the BNB chain you will need two types of tokens:
 
 ## BEP20 tokens
 - BEP20 is a token protocol closely resembling Ethereum's ERC-20 for interoperability.
-- Except for native BNB, all other tokens are BEP20 tokens.
+- Except for native BNB, all other tokens are BEP20 tokens (included PLAY token).
 - Tokens native to other blockchains (BTC, USDC, ETH) are wrapped into BEP20 tokens.

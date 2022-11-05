@@ -15,7 +15,7 @@ Feel free to test and use the protocol as much as you want these days. If you ha
 
 2) The website is showing a simple design that is not final. Changes will be made before the mainnet launch. Once again, if you have something to share, come chat with us on Discord.
 
-3) The open beta will take place on Cronos testnet. 
+3) The open beta 2.0 will take place on BNB chain testnet. 
 
 
 **Platforms supported:**
@@ -44,7 +44,7 @@ To join our protocol and start earning PLAY you just need to:
 
 3) start playing
 
-If you don’t know how to connect to the Cronos testnet and create your wallet, click [HERE.](https://docs.playswap.org/open-beta/connect-metamask-to-testnet/)
+If you don’t know how to connect to the BNB chain testnet and create your wallet, click [HERE.](https://docs.playswap.org/open-beta/connect-metamask-to-testnet/)
 
 - You will be able to claim your earnings once a day.
 

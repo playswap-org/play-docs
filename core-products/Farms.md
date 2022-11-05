@@ -8,6 +8,8 @@ PlaySwap Farms offer multiple farming opportunities to our users. You can stake 
 * PLAY/BNB
 * PLAY/BUSD 
 
+Stay tuned for more LPs
+
 
 
 
