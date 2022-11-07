@@ -4,9 +4,9 @@
 
 ### **What is PlayPools?**
 
-Play pools allow a user to stake PLAY tokens to earn tokens of other projects for Free. The number of tokens received depends on the number of tokens a user has subscribed to the pool and the total amount of PLAY tokens staked in the pool. 
+Play pools allow users to stake PLAY tokens to earn tokens of other projects for Free. The number of tokens received depends on the number of tokens a user has subscribed to the pool and the total amount of PLAY tokens staked in the pool. 
 
-A user can earn the new token over a set period. The user can harvest the pending rewards at any time.
+Users earn the new token over a set period. The user can harvest the pending rewards at any time.
 
 ## Why choose PlaySwap?
 
@@ -16,7 +16,7 @@ Get access to the worldwide gaming community.
 ### - Liquidity
 Projects launched on PlaySwap will be listed and have access to farms with high rewards to increase the liquidity.
 
-### - Trading competion
+### - Trading competition
 We can organize a trading competition inside our community to increase your exposure.
 
 ### - Marketing boost
@@ -28,7 +28,7 @@ Farms stimulate users to provide liquidity for your trading pair by distributing
 When a project applies for PlaySwap Launchpool, we can create a new farming pair (subject to discussion).
  
 
-PlaySwap Launchpool and Farms are platforms that help project teams promote their tokens and get exposure to the vest Playverse community. We look for strong teams with a clear and innovative vision in the crypto space with a particular focus on gaming. If you think you are one of the projects, do not wait any longer and apply below.
+PlaySwap Launchpools and Farms are platforms that help project teams promote their tokens and get exposure to the Playverse community. We are looking for strong teams with a clear and innovative vision in the crypto space with a particular focus on gaming. If you think you are one of the projects, do not wait any longer and apply below.
  
 
 ## Listing on PlaySwap
@@ -45,5 +45,5 @@ If you would like to start any of the partnerships above, send us an email to ma
 If the above sections do not cover your questions, you can contact us via email to marketing @ playswap.org. Suppose you are a gaming content creator looking for a partnership. In that case, you can contact us using the same email or inside our  [Discord server](https://discord.gg/8v7Fd7PG9K).
 
 
-### *Beware of scammers! Do not reply to messages sent from unofficial communication channels of PlaySwap. Our team will never DM you first or ask for any private information.*
+### *Beware of scammers! Do not reply to messages sent from unofficial communication channels of PlaySwap. PlaySwap team will never DM you first or ask for any private information.*
 
