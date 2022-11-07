@@ -1,3 +1,3 @@
 # Liquidity pool
 
-## Comming soon... 🚀
+## Coming soon... 🚀

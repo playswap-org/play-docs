@@ -1,7 +1,7 @@
 # Gaming infrastructure
 ![](../assets/images/p2e.jpg)
 
-The gaming protocol is the essential product that will bring the next billion gamers into crypto.
+The gaming protocol is one of the essential products that will bring the next billion gamers into crypto.
 
 It will enable the mainstream gaming community to earn PLAY tokens while playing top-tier games. When users play their favorite game/games(*if supported by this feature), they will receive PLAY tokens. Therefore, not just the PROs or people with money to buy NFTs, all gamers will create an active income from their hobby without having to invest any capital to start earning.
 

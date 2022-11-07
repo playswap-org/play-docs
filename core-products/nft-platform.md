@@ -1,3 +1,3 @@
 # NFT Platform
 
-## Comming soon... 🚀
+## Coming soon... 🚀

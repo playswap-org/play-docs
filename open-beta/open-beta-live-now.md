@@ -4,14 +4,14 @@
 
 **Hello PlayFam**,
 
-Today is the day we have been waiting for: **Our gaming protocol Open beta 2.0 is starting NOW!!**
+It's time to join & enjou our Open Beta 2.0!
 
-As you know, this is a Beta version of the protocol and we are releasing it to the public to show you the protocol will actually work as we have been advertising it, and to test and gather community feedback to improve the mainnet release of the protocol.
+As many of you are aware, the Beta version released is to let you familiarize with the protocol, to test the features and gather your feedback to improve the mainnet release of the protocol.
 
 **So, what can you expect?**
 
 1) The main purpose of the open beta is to test the limits, features, and possible bugs of the protocol. Issues/bugs might occur and this is a good thing. 
-Feel free to test and use the protocol as much as you want these days. If you have feedback or anything to report, contact the team on the appropriate Discord channel. Now is the time when we can make improvements and fix bugs to improve your experience with the protocol in the future. 
+Feel free to test and use the protocol as much as you want these days. If you have feedback or anything to report, contact the team on the official Discord server. This is the time to make improvements and fix bugs to improve your experience with the protocol in the future. 
 
 2) The website is showing a simple design that is not final. Changes will be made before the mainnet launch. Once again, if you have something to share, come chat with us on Discord.
 
@@ -19,7 +19,6 @@ Feel free to test and use the protocol as much as you want these days. If you ha
 
 
 **Platforms supported:**
-We know that we said that due to the change of the roadmap, we would launch the P2E protocol for PC only. Well… We like to over-deliver and we have a good surprise for you.
 
 The protocol will support:
 - **PC**
@@ -39,10 +38,10 @@ Sounds good right?
 
 To join our protocol and start earning PLAY you just need to:
 
-1) Join our discord server and verify yourself.
+1) Join the official discord server and verify yourself.
 2) Open a DM with the bot “P2EManager” identified with the role “Play2Earn Wizard” and type !register “address”
 
-3) start playing
+3) Start playing
 
 If you don’t know how to connect to the BNB chain testnet and create your wallet, click [HERE.](https://docs.playswap.org/open-beta/connect-metamask-to-testnet/)
 

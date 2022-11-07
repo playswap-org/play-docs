@@ -1,6 +1,6 @@
 # Community
 
-PlaySwap community is and will be an essential part of our development. We value the feedback from our users and try to make changes accordingly.
+PlaySwap community is and will be the most important part of our development. We value the feedback from our users and try to make changes accordingly.
 
 
 PlaySwap central social platform is [Discord](https://discord.gg/8v7Fd7PG9K). You will be able to Play to Earn, gain PLAY tokens, use those tokens to create a passive income in PlaySwap, and interact with our gaming community.

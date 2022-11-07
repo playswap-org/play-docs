@@ -1,3 +1,3 @@
 # Gaming Platform
 
-## Comming soon... 🚀
+## Coming soon... 🚀

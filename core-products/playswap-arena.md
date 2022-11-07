@@ -1,3 +1,3 @@
 # PlaySwap Arena
 
-## Comming soon... 🚀
+## Coming soon... 🚀

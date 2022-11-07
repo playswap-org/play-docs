@@ -1,6 +1,4 @@
 # Audit
 
-Our swap is a fork of PancakeSwap with our custom modifications.
-
-We will apply for an audit right after the public sale.
+Audit will be done with a top tier audit company before the public sale.
 

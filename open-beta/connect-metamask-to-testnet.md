@@ -10,4 +10,4 @@ Click on ADD NETWORK on your Metamask,
 
 How to request BNB on testnet:
 - Visit: https://testnet.binance.org/faucet-smart
-- Add your testnet address on the form, verify the captcha and click on “Get Test CRO”
+- Add your testnet address on the form, verify the captcha and click on “Give me BNB”
