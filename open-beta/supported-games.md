@@ -2,7 +2,7 @@
 
 **Supported console games:**
 
-- Based on our current testing we support all console games. If you test with a game and have some issues. Please contact us on Discord.
+- Based on our current testing; we support all console games. If you test with a game and have some issues. Please contact us on Discord.
 
 **List of supported PC games:**
 

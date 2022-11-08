@@ -12,6 +12,6 @@ Remember, PlaySwap is a decentralized platform, and we will never have custody o
 - Binance wallet: [Official guide](https://www.bnbchain.org/en/binance-wallet)
 - Official list of supported wallets: [Official guide](https://www.bnbchain.org/en/wallets)
 
-If you have any question regarding this process, feel free to join our [Discord](https://discord.gg/8v7Fd7PG9K) and ask for support in the appropriate channel. 
+If you have any questions regarding this process, feel free to join our [Discord](https://discord.gg/8v7Fd7PG9K) and ask for support in the appropriate channel. 
 
-*Watch out for fake accounts! The PlaySwap team will never text you first and/or ask for private keys or individual information!*
+*Watch out for fake accounts! The PlaySwap team will never text you first and ask for private keys or individual information!*

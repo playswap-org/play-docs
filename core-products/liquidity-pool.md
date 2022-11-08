@@ -5,4 +5,4 @@ When you add liquidity to the pool, you will get LP tokens. Every token swap gen
 Hence, apart from earning income from token swap transactions, a user will stake LP tokens and earn PLAY tokens.
 Please note that you will need to have a sufficient amount of each token when adding liquidity. You want to add the following liquidity: 1 BNB / 300 BUSD. If you have less than 300 BUSD or less than 1 BNB, you will not be able to proceed with that amount. The protocol will calculate your LP using your available amount.
 
-Remember that providing liquidity is subject to impermanent loss and may carry certain risks. Make sure you know all the pros and cons of providing liquidity before taking any actions.
+Remember that providing liquidity is subject to impermanent loss and may carry certain risks. Make sure you know all the pros and cons of providing liquidity before taking any action.

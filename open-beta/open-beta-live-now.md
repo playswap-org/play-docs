@@ -6,14 +6,14 @@
 
 It's time to join & enjou our Open Beta 2.0!
 
-As many of you are aware, the Beta version released is to let you familiarize with the protocol, to test the features and gather your feedback to improve the mainnet release of the protocol.
+As you know, this is a Beta version of the protocol. We are releasing it to the public to show you the protocol will work as we have been advertising it, and to test and gather community feedback to improve the mainnet release of the protocol.
+
 
 **So, what can you expect?**
 
-1) The main purpose of the open beta is to test the limits, features, and possible bugs of the protocol. Issues/bugs might occur and this is a good thing. 
-Feel free to test and use the protocol as much as you want these days. If you have feedback or anything to report, contact the team on the official Discord server. This is the time to make improvements and fix bugs to improve your experience with the protocol in the future. 
+1) The main purpose of the open beta is to test the protocol's limits, features, and possible bugs. Issues/bugs might occur, and this is a good thing. Feel free to test and use the protocol as much as you want. Contact the team on the appropriate Discord channel if you have feedback or anything to report. Now is the time when we can make improvements and fix bugs to improve your experience with the protocol in the future. 
 
-2) The website is showing a simple design that is not final. Changes will be made before the mainnet launch. Once again, if you have something to share, come chat with us on Discord.
+2) The website shows a simple design that is not final. We  will make changes before the mainnet launch. Once again, chat with us on Discord if you have something to share.
 
 3) The open beta 2.0 will take place on BNB chain testnet. 
 
@@ -47,11 +47,11 @@ If you don’t know how to connect to the BNB chain testnet and create your wall
 
 - You will be able to claim your earnings once a day.
 
-To interact with the blockchain and claim your tokens you will need to have BNB. You can use [THIS](https://testnet.binance.org/faucet-smart) faucet to get BNB.
+To interact with the blockchain and claim your tokens, you must have BNB. You can use [THIS](https://testnet.binance.org/faucet-smart) faucet to get BNB.
 
-After opening the page you simply need to add your Wallet address and wait for the BNB to arrive.
+After opening the page, you simply need to add your Wallet address and wait for the BNB to arrive.
 
-This is it. Now is the time to test the protocol, share the project with your friends and bring them on to join our community.
+This is it. Now is the time to test the protocol, share the project with your friends, and bring them on to join our community.
 
 **Together we can do great things.**
 

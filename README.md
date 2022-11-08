@@ -10,7 +10,9 @@ The decentralized gaming infrastructure developed on the BNB Blockchain with a s
 
 The AMM swap allows users to exchange tokens on the BNB blockchain network. The liquidity provided to the exchange comes from Liquidity Providers ("LPs") who stake their tokens in Liquidity Pools. In exchange, a user gets LP tokens that he can stake to earn PLAY tokens in the "Farms"
  
-**Fill the gap:** during the last years (2021-2022) there was a massive growth of the Play to Earn gaming space. The problem to solve is that most of these games are not attractive/good enough for the vast majority of the mainstream gaming community. Therefore PlaySwap is developing a solution that will allow these gamers to generate active and passive income while playing their favorite games without changing their habits and favorite devices.
+**Fill the gap:** during the last years (2021-2022) there was a massive growth of the Play to Earn gaming.
+
+The problem to solve is that most of these games are not attractive/good enough for the vast majority of the mainstream gaming community. Therefore PlaySwap is developing a solution that will allow these gamers to generate active and passive income while playing their favorite games without changing their habits and favorite devices.
  
 The mainstream gaming industry is one of the biggest industries in the world, with hundreds of millions of gamers worldwide. The vast majority of gamers worldwide like to play AAA games but have no interest in the recent GameFi Web3 industry due to the poor quality of the games. On the one hand, they don't like the quality of the games, but on the other hand, they are still not aware of the power of the crypto space and the DeFi ecosystem. PlaySwap will close this gap and become the bridge between these two worlds.
 
