@@ -4,7 +4,7 @@
 
 **Hello PlayFam**,
 
-It's time to join & enjou our Open Beta 2.0!
+It's time to join & enjoy our Open Beta 2.0!
 
 As you know, this is a Beta version of the protocol. We are releasing it to the public to show you the protocol will work as we have been advertising it, and to test and gather community feedback to improve the mainnet release of the protocol.
 

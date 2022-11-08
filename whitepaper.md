@@ -1,270 +1,353 @@
-![](assets/images/pswapdoc.jpg)
+![](assets/images/pswapwhite.jpg)
 
 # Introduction
 
-In the past months, we have seen a massive growth of the Play to Earn gaming space, but we also noticed that most of these games are not attractive/good enough for the vast majority of the mainstream gaming community. Therefore we are developing a solution that will allow these gamers to generate active and passive income while playing their favorite games.
+PlaySwap is an innovative infrastructure that bridges mainstream gaming, AAA games included, and Web3. The decentralized gaming infrastructure was developed with a specific goal: to become the entry point of the traditional mainstream gaming community in  Blockchain, Crypto and Defi. 
 
-The mainstream gaming industry is one of the biggest industries in the world, with hundreds of millions of gamers worldwide. The vast majority of gamers around the world like to play AAA games and have no interest in the recent GameFi industry. On the one hand, they don’t like the quality of the games, but on the other hand, they are still not aware of the power of the cryptoverse and the DeFi ecosystem. Playswap will close this gap and become the bridge between these two worlds.
+**Vision:** The Playswap vision is that all players should be able to earn by the time they spend playing their favorite video games. This is why PlaySwap enables the community to monetize their time playing games on their PC, Xbox, PS4, and PS5, earning $PLAY without changing their habits and favorite devices. 
 
-Our community will be able to play their favorite games and, at the same time, monetize the time they spend gaming. With this monetization, our community will also get to know the cryptoverse, understand the power of DeFi, and potentially become active DeFI, GameFi, Swappers.
+On top of that, Playswap AMM swap allows users to boost their earnings based on skill and loyalty. The entire ecosystem includes the  development of a platform where gamers challenge each other and compete on leaderboards. 
 
-We are highly committed to providing actual value, fairness, and innovation to decentralized finance through our high-quality products and services. PlaySwap is fast, secure and anyone can swap and earn tokens. 
+An SDK for game developers will enable them to use $PLAY as in-game currency, generating an additional revenue stream while increasing our token utility. 
 
-# PlaySwap
+The Nft marketplace will be open not just for Playswap collections but  external collections as well. 
+And with the Nft platform, the gate to use gaming NFTs will be opened bringing in the next level a fully immersive experience of gaming.
+ 
+ 
+**Fill the Gap:** The mainstream gaming industry is one of the biggest industries in the world, with hundreds of millions of gamers worldwide. Most gamers worldwide like to play AAA games but have no interest in the recent GameFi Web3 industry due the poor quality of the games. On the one hand, they don't like the quality of the games, but on the other hand, they are still not aware of the power of blockchain, crypto and the DeFi ecosystems.  About defi, during the last years (2021-2022) there was a massive growth of the Play to Earn gaming space with a lot of opportunities that the traditional gaming industry has not approached yet. PlaySwap is ready to fill the gap and become the first real bridge between Web2 and Web3.
 
-PlaySwap is a decentralized exchange developed on the Cronos Blockchain with a specific goal:
-To become the point of entry of the mainstream gaming community into the Cryptoverse. 
+# Problems to solve
 
-PlaySwap is also an automated market maker (AMM) that allows a user to exchange tokens on the Cronos blockchain network. The liquidity provided to the exchange comes from Liquidity Providers ("LPs") who stake their tokens in Liquidity Pools. In exchange, a user gets LP tokens that can also be staked to earn PLAY tokens in the "Farms". 
+The Playswap team has identified several issues in the current Web2 & Web3 gaming market, let’s analyze them closely in the next points. 
 
-But that's not all:
+* **Bridge infrastructure:** There is no infrastructure to bridge the mainstream gaming community Web2 to the Web3 and DeFi ecosystems.
+
+* **Entry barrier:** The entry barrier of the existing Web3 games still requires the users to invest capital to start playing and earning. 
+
+* **Time approach:** Top mainstream games don’t allow gamers to monetize the time spent playing directly from their favorite consoles. 
+
+* **User experience:** There is a lack of high-quality experience due to the graphics of the current Web3 games. Web3 gamers don’t play the game they like, but games with low quality compared to Web2. 
+
+* **Crypto knowledge:** To enable mass adoption of Web3 there aren’t enough players from Web2 who have basic crypto knowledge. 
+
+* **No Incentives:** AAA gamers don’t have any incentive to switch to Web3 as it is available today.
+Closed ecosystems. Gamers are rewarded in closed and centralized ecosystems, which doesn’t give them a lot of options of what to do with their rewards.
+
+# Solutions
+
+* **Bridge web2 & web3:** Playswap successfully created an infrastructure that bridges mainstream gaming and Web3. 
+
+* **Time approach:** The protocol is designed to reward gamers for their time spent playing video games on PC, PS4, PS5, and Xbox. 
+
+* **User Experience:** Gamers don’t need to change their favorite devices and games, the best user experience is available.
+
+* **2000+ Games:** Currently Playswap supports more than 2000 mainstream games.
+Play the game you like. Gamers don't  need to change their habits and play different games they may or may not like. 
+
+* **No initial investment:** In Playswap there isn’t an initial investment required from users.
+
+* **Basic Crypto knowledge:** Playswap includes its own AMM Swap that will open the door for the gaming community to learn more about DeFi and show them the possibilities of this space. Swap, stake, farm and create your passive income.
+
+* **Decentralized system:** Gamers will be rewarded with $Play token in their wallet in an open and decentralized ecosystem. 
+
+In a few words Playswap solution matches mainstream gamers need to continue playing their favorite video games from their usual consoles with their friends, online or offline, and create an active/passive income source. A truly opened and decentralized ecosystem. The complete ecosystem will also deliver extra value for more advanced users, who can compete and earn exclusive NFTs to create more value and community recognition.
+
+# Market evaluation
+
+Playswap research is based on the assessment of Newzoo, which is the global standard in games data. 
+As you can see on the table below, the mainstream gaming market continues to grow consistently and there is a massive opportunity to bridge Web2 and Web3 gaming.
+
+![](assets/images/marketeval.jpg)
+
+<font size="1"> Source: https://financesonline.com/number-of-gamers-worldwide/</font>
+
+**TAM: $200B revenue, 2.95B gamers worldwide.**
+
+The total addressable market in the gaming industry is huge. In 2021, there were 2.95 billion gamers, and the gaming market generated $200 billion in revenue.
+
+From these figures, only 5% of this revenue was generated by P2E / Web 3.0 games, around $10 billion.
+
+In a ten year horizon, most games will have a Web3 component, from NFT marketplaces (skins, characters, medals, etc..), to in-game currencies and more.  Based on this, companies well positioned to support this transition from traditional gaming to web 3.0 gaming will be poised for explosive growth.   
+Therefore PlaySwap wants to become the infrastructure leader that will connect mainstream gaming and Web3 gaming.
+ 
+![](assets/images/marketeval2.jpg)
+
+<font size="1"> Source: https://financesonline.com/number-of-gamers-worldwide/</font>
+
+As you can see by the table above, just by bridging Consoles to Web3, PlaySwap is targeting 28% of the market that nobody else is still able to target.
+
+On the B2B side, Playswap infrastructure will create new opportunities for Web2 and Web3 game developers to generate new revenue sources, better engage their community of gamers and increase the time they play their games. The complete ecosystem will be the gateway for the mainstream gaming community to join Web3.
+
+# Competition
+
+Why are the major market players unable to add solutions to the problems that Playswap solves?
+
+**Approach, position and target.** The competition is focused on building/becoming the AAA game for Web3 instead of being the bridge that will fill the gap between mainstream gaming and crypto. Most competitors reward users for their skills, and who rewards gamers for time/skills offers closed ecosystems. 
+
+Playswap offers an entire ecosystem that facilitates the adoption of Web3 for mainstream gaming studios and gamers. PlaySwap is fast, decentralized and anyone can swap and earn tokens.
 
 
-When you make a token swap \(trade\) on the exchange you will pay a **0.2% trading fee**, which is broken down as follows:
+|**<font size="2"> Features </font>**|**<font size="2"> PlaySwap </font>**|**<font size="2"> WomPlay </font>**|**<font size="2"> Exceedme </font>**|**<font size="2"> BUFF </font>**|**<font size="2"> PS Stars </font>**|**<font size="2"> GamerGains </font>**|
+|---|---|---|---|---|---|---|
+|**<font size="2"> Web2 Consoles </font>**|YES|**<span style="color:red">NO</span>**|**<span style="color:red">NO</span>**|**<span style="color:red">NO</span>**|YES|**<span style="color:red">NO</span>**|
+|**<font size="2"> Web2 PC </font>**|YES|YES|YES|YES|**<span style="color:red">NO</span>**|YES|
+|**<font size="2"> Web2 mobile </font>**|YES*|YES|**<span style="color:red">NO</span>**|YES|**<span style="color:red">NO</span>**|**<span style="color:red">NO</span>**|
+|**<font size="2"> Web3 </font>**|YES|YES|**<span style="color:red">NO</span>**|**<span style="color:red">NO</span>**|**<span style="color:red">NO</span>**|**<span style="color:red">NO</span>**|
+|**<font size="2"> Decentralization </font>**|YES|YES|YES|YES|**<span style="color:red">NO</span>**|YES|
+|**<font size="2"> Competitive </font>**|YES|**<span style="color:red">NO</span>**|YES|**<span style="color:red">NO</span>**|**<span style="color:red">NO</span>**|YES|
+|**<font size="2"> Number of games </font>**|**<span style="color:yellow">2000+</span>**|100+|5|20|**<span style="color:yellow">2000+</span>**|11|
+|**<font size="2"> AAA games </font>**|**<span style="color:yellow">100+</span>**|0|5|0|**<span style="color:yellow">100+</span>**|11|
+|**<font size="2"> Rewards </font>**|**<span style="color:yellow">Time, skill & loyalty</span>**|Skill & loyalty|Skill|Skill|Skill|**<span style="color:yellow">Time, skill & loyalty</span>**|
 
-**0.14%** - Returned to liquidity pools in the form of a fee reward for liquidity providers.
+*Technology to detect mobile games is currently under evaluation. Now, we can support the SAMSUNG platform
 
-**0.04%** - Will be used to Buy Back and Burn
+## PlaySwap advantages
 
-**0.02%** - Marketing and investment activities
+* Complete infrastructure designed to bridge Web2 and Web3 gaming.
+* Big selection of games for different devices (Pc, ps4, ps5, xbox): 2000+.
+* PlaySwap gaming protocol rewards users by their time spent and not considering their skills. This method is fair for all types of gamers.
+* The Playswap community will be rewarded in $PLAY tokens paid to their wallet. The gamer can decide what to do with the tokens without our permission. 
+* PlaySwap Arena: where users can compete in leaderboards with other players and guilds. 
+* Competitive gamers skills will be rewarded on the gaming and tournaments platform for the ones who want to compete without affecting the earnings of the ones that don’t.
+* Playswap community can easily create a passive income and invest (stake, farm, boost) the tokens in the AMM Swap
+* Playswap does not have a traditional paid premium membership to increase rewards. Users can increase their rewards in the Playswap platform by investing the earned tokens in the Holders pool.
+* Decentralized and open ecosystem.
 
-# Play to Earn
+## Products
 
-Play to Earn is the product that will bring the next billion gamers into crypto.
+## AMM Swap
 
-This is the core principle of our project. This product enables the mainstream gaming community to earn PLAY tokens while playing AAA games. When a user plays his favorite game(*if supported by this feature), he will receive PLAY tokens. Therefore, all gamers, not just the PROs or people with money to buy NFTs from GameFi’s, will create an active income from their hobby without having to invest any capital to start.
+The automated market maker (AMM) of PlaySwap, a fork of Pancackeswap and modified to fit our requirements, allows users to exchange tokens on the BNB blockchain network.
 
-These gamers will also be able to earn passive PLAY tokens by using the other Core products of PlaySwap.
+The liquidity provided to the exchange comes from Liquidity Providers ("LPs") who stake their tokens in Liquidity Pools. In exchange, a user gets LP tokens that he can also stack to earn PLAY tokens in the "Farms". When you make a token swap (trade) on the exchange, you will pay a 0.2% trading fee, used as follows:
 
-Playswap will become the gateway into crypto and DeFi to millions of gamers worldwide with this feature. 
-This product is developed to fill the gap between mainstream AAA gaming and the GameFi industry, where gamers need to invest capital in starting and/or playing games that are not fulfilling their expectations.
+* 0.14% - Returned to liquidity pools in the form of a fee reward for liquidity providers.
+* 0.04% - Will be used to Buy Back and Burn
+* 0.02% - Marketing and investment activities
+ 
+## Farms
+
+PlaySwap Farms offer multiple farming opportunities for users. You can stake your LP tokens and earn PLAY tokens in return. Liquidity pairs will be incentivized by offering to Liquidity Providers the opportunity to stake their LP tokens in the farms available.
+
+Initial Liquidity Pools (LPs) for farming PLAY tokens:
+* PLAY/BNB
+* PLAY/BUSD
+
+More LPs will come when the ecosystem will rise.
+ 
+## Liquidity pool
+
+When you add liquidity to the pool, you will get LP tokens. Every token swap generates a 0.2% transaction fee. The protocol will return 70% of transaction fee to liquidity providers as reward fees. The liquidity pool will also allow you to stake your LP tokens to earn PLAY tokens in the "Farms".
+
+Remember that providing liquidity is subject to impermanent loss and may carry certain risks. Make sure you know all the pros and cons of providing liquidity before taking any actions.
+ 
+## Gaming infrastructure
+The gaming protocol is one of the essential products that will bring the next billion gamers into crypto.
+
+It will enable the mainstream gaming community to earn PLAY tokens while playing top-tier games. When users play their favorite game/games(*if supported by this feature), they will receive PLAY tokens. Therefore, not just the PROs or people with money to buy NFTs, all gamers will create an active income from their hobby without having to invest any capital to start earning.
+
+These gamers will also be able to earn passive PLAY tokens by using the other Core products of PlaySwap. PlaySwap will become the gateway into crypto and DeFi to millions of gamers worldwide with these products. It is specifically developed to fill the gap between mainstream AAA gaming and the GameFi Web3 industry.
 
 
-Now you will be able to monetize your long-time hobby by playing the games that you love.
+## PlaySwap Arena
+The gaming and tournaments platform with guild leaderboards is designed to reward the most active users and increase engagement by also rewarding users based on their skills and achievements. 
 
-**Exciting right? Let's play!**
+## Gaming platform
+Application to be run by the gamer to improve and increase gaming detection and directly interact with the entire ecosystem.
 
-Join our [Discord](https://discord.gg/8v7Fd7PG9K) to start this journey with us.
+## SDK for game developers
+The project is designed to bring game developers into the PlaySwap ecosystem by giving them the opportunity to create a new revenue stream hassle-free. On the user side, this platform will increase the pool of rewards. 
 
-*Play2Earn will start with a small selection of TOP games. The community can request for new games to be added. Games will be added based on community votes.
+## NFT marketplace 
+Buy/sell/rent NFTs with the rest of the community. The marketplace will be open to list and partner with third part collections.
 
-# PLAY token
+## NFT platform 
+The platform will allow users to use gaming NFTs. 
 
-PLAY is our native token that powers the entire PLAYverse.
+# Technology
+Playswap uses the following technologies to support the product of Playswap: Solidity, Celery, Python, Django, Redis, MySQL, REST, Docker, and Swarm.
 
-## Token details
+Playswap used these technologies to build:
+* The gaming infrastructure
+* The Oracle to link On-Chain with Off-chain data
+* The discord bot
+* The custom functionalities developed on top of Pancakeswap fork for the Amm swap
+
+# Business model
+
+Once the infrastructure is fully deployed, Playswap will be highly profitable and positioned as a leader of the sector.
+
+Revenue streams
+* Swap fees
+* PlaySwap Arena fees
+* Gaming platform fees
+* NFT marketplace fees
+* NFT gaming fees
+* Gaming protocol fees
+* SDK fees
+* B2C advertising
+
+# How it works
+
+## Gaming protocol
+
+The discord bot is where users register their addresses (must be Metamask/other so it can interact with Web3).
+
+The bot manages all the user activities, like pausing the current game session, banning the user in case of fraud, managing profile changes, and counting the gaming time that PlaySwap will convert into token ($PLAY token) earnings.
+
+Every 24h, a cronjob generates the total earnings for all users and interacts with a smart contract to manage payments.
+
+Afterward, users can either claim or send to the holders pool directly from the Web UI of the platform. In both cases, the oracle developed listens for off-chain events and data and triggers on-chain contracts accordingly.
+
+## Infrastructure
+
+![](assets/images/howitworks.jpg)
+
+# Market validation
+
+The project was working in chronos testnet before deciding to move to BNB chain. 
+
+The open beta gave an amazing feedback from the gaming community and some interesting results can be showed:
+
+* 550+ active users
+* 450+ gaming hours logged per day
+* 100% growth on discord and twitter
+* Great part of gamers came in Web3 for the first time thank to PlaySwap
+
+# Play Token
+
+The PlaySwap tokenomics have been designed by blockchain experts to ensure a robust token utility, price stability and community security. 
 
 | Token details | |
 |---|---|
 | Symbol | PLAY |
-| Chain | Cronos blockchain |
-| Max supply | 300M tokens | 
-| Initial circulating supply | 24M tokens | 
-| Initial marketcap | 12M$ - Listing 0.5$ |
-| Burn Mechanics | yes | 
+| Chain | BNB blockchain |
+| Max supply | 200M tokens | 
+| Initial circulating supply | 8.98M tokens | 
+| Burn Mechanics | YES| 
 
-Burn details 🔥:
-* 20% of the trading fees are used to buy back tokens and burn them 
-* 80% of the auto compound Play pool fees will be burned
-* 100% of the Play2Earn fees will be burned
-* 50% of the profits generated in all other gaming related activities will be burned
+## Tokenomics
 
-## Let's explore some of the many use cases below:
-* You can buy/sell PLAY from our exchange
-* Earn PLAY as rewards from playing your favorite videogames
+| Pool | % | Initial supply (TGE) | Price ($) | Cliff (Months) | Vesting (Months) | Total (PLAY) |
+|---|---|---|---|---|----|----|
+| Team & advisors | 15% | 0 |  | 12 | 24| 30.000.000|
+| Seed sale | 6% | 600.000 | 0.03 |3|12| 12.000.000|
+| Private sale | 12% | 1.680M | 0.055 |2|10|24.000.000|
+| Public sale | 3%  | 600.000 | 0.08|0|6|6.000.000|
+| Rewards (P2E/Community) | 35% | 2.100.000 |  |||70.000.000|
+| Marketing | 5% | 1.000.000 |  |||10.000.000|
+| Ecosystem support | 14% | 0 |  |||28.000.000|
+| Liquidity | 10% | 3.000.000 |  |||20.000.000|
+|Total|**100**|**8.980.000**||||**200.000.000**|
+
+$PLAY token will be available in:
+* Seed sale at $0.03 per token
+* Private sale $0.055 per token
+* Public sale at $0.08 per token.
+  
+It will  be listed on Playswap AMM swap starting at $0.08 per token. These prices were not chosen randomly, they were derived from the expected derivatives the Play token will earn.
+
+* Initial market cap: $718.400
+* Fully diluted market cap: $16M
+
+## Token utilities
+
+$PLAY is a critical element of the Playswap infrastructure. It will allow users to benefit from the: 
+* Buy/sell from the Amm Swap
+* Earn PLAY as rewards from playing your favorite games
 * Earn PLAY as rewards from staking LP tokens in our farms
 * Stake it in your PLAY pools to earn PLAY and other tokens
-* Use play to buy-in to gaming tournaments
+* Compete individually and in teams to participate and organize public/private tournaments using $PLAY
+* Buy/sell NFTs on the NFT marketplace
+* Use gaming NFTs in the NFT platform
+* P2E monetization for Web2 & Web3 games
+* Play token burn (see the complete program of token burn)
 
-And many more in the future.
+## PLAY token burn
 
+**What is token Burning**
 
-## PLAY emissions*
+Token burning is the process of permanently removing tokens from circulation, reducing the total supply. Burning tokens can be done in several ways, most commonly by sending tokens to a so-called "eater address" or "dead address."
 
-| Year | PLAY per block | Total supply | % of max supply |
-|---|---|---|---|
-| Initial mint | N/A | 24M | 8% |
-| Year 1 |23.1581463 PLAY | 150M | 50% |
-| Year 2 |11.0276887 PLAY | 210M | 70% |
-| Year 3 | 8.2707665 PLAY  | 255M | 85% |
-| Year 4 | 5.5138443 PLAY | 285M | 95% |
-| Year 5 | 2.7569222 PLAY | 300M | 100% |
+The "dead address" balance is publicly visible on the blockchain. Still, access to its tokens is unavailable to anyone.
 
-* *PLAY per block is calculated based on the average block time of 5.8 blocks per second*
+**Why is token burning important?**
 
+* Increase the value of the token
+* Increasing the token price is probably the most well-known benefit of a token burn. Token burn reduces the overall circulation. Thereby the overall supply decreases. It might potentially increase the token value. The constant burning of the coin helps to keep a steady price.
 
-## Initial supply allocation
-* Total mint: 24M 
-* Public sale: 10M 
-* Liquidity / P2E / LP: 10M 
-* Marketing: 1M
-* Team and advisors: 3M
+**How does token burning at PlaySwap work?**
 
-🔏 *The team and advisors tokens have a 12 months vesting period with a linear payout after that*
+There will be six deflationary machanisms in place:
+* 20% of the NFT Marketplace fees will be used to buy back and burn PLAY tokens
+* 20% of the PlaySwap Arena fees will be used to buy back and burn PLAY tokens
+* 20% of the gaming platform fees will be used to buy back and burn PLAY tokens
+* 80% of the gaming protocol fees will be burned
+* 20% of the trading fees are used to buy back tokens and burn them
+* 80% of the auto compound Play pool fees will be burned
 
-## Emission per block allocation
-* Farms and Play pools: 75%
-* Play to Earn: 10%
-* Project development: 10%
-* Marketing and investment activities: 5%
+**PLAY token burn will occur once a month.**
 
-# Roadmap 
+Even though PLAY token burn occurs once a month, PLAY token buyback happens during the month. We will share a final burn report monthly.
 
-The Roadmap illustrated below lists the major milestones that have been achieved and the ones that are yet to be accomplished.
+<font size="1"> PlaySwap reserves the right in its sole discretion to change or amend the burning schedule at any time and for any reason. </font>
 
-Crypto moves fast, and we move fast too. Therefore don't be surprised if we add new to-dos to this roadmap. We value community feedback and this roadmap is not set in stone.
+# Roadmap
 
-04/04/2022: The roadmap as been updated based on community request:
+The roadmap below lists the significant milestones already achieved and the ones to be accomplished.
 
-|Q1 2022|Q2 2022|Q3 2022|Q4 2022|Q1 2023|Ongoing|
+Crypto moves fast, PlaySwap moves faster. Therefore don't be surprised if we add new to-dos to this roadmap. Also based on community feedback the roadmap might change in future.
+
+|Q1 & Q2 2022|Q3 2022|Q4 2022|Q1 2023|Q2 2023|Q4 2023|
 |---|----|---|---|---|---|
-|Marketing campaingns|Play2Earn beta testing|First gaming tournament|Initial Game offerings|Global expansion|Marketing campaigns|
-|Community growth|Play2Earn mainnet launch|Play2Earn improvements|GameFi Partnerships|Gaming/tournaments platform|CEX listings|
-||Public sale|CEX listings|Stream2Earn|Key gaming partnerships|Governance|
-||Launch token|Community growth|eSports partnerships|Marketing campaigns|Strategic partnerships|
-||Launch Swap|CMC/Coingecko listing||NFTMarketplace|Community growth|
-||Code audit|||||
-
-
-<br>
-
-Would you like to provide us with some feedback or ideas for the roadmap? Drop us a line in the appropriate [Discord channel](https://discord.gg/8v7Fd7PG9K) and we will consider it. If it's an idea well received by the community and we end up developing it, you will get an appropriate reward.
-
-# Community
-
-Our community is, and will be an essential part of our development. We value the feedback from our users and try to make changes accordingly.
-
-Our central social platform is [Discord](https://discord.gg/8v7Fd7PG9K), where you will be able to Play to Earn, gain PLAY tokens, use those tokens to create a passive income in PlaySwap, and interact with our gaming community.
-
-Join our official social media profiles and stay up to date with the latest news:
-
-- [Discord](https://discord.gg/8v7Fd7PG9K)
-- [Twitter](https://twitter.com/PlaySwapDeFi)
-- [Medium](https://medium.com/@PlaySwap)
-- [Telegram group](https://t.me/PlaySwapDeFi)
-- [Telegram ANN channel](https://t.me/PlaySwapDefiANN)
-
-# Audit
-
-Our swap is a fork of PancakeSwap.
-
-We will apply for an audit right after the public sale.
-
-# Public sale
-
-We are gamers and we are creating this project for gamers. Therefore we will not have a private sale for big investors. Every community member will have access to the same information and token prices. This is a fair launch and it will not matter if you are a small investor or not. The sale will not have a minimum or maximum investment.
-
-So if you believe in our project, this is the best opportunity you have to support our project from the start and enjoy a nice discount that can give you the opportunity to have massive profits in the long run.
-
-**Together we will bring the next billion gamers into crypto!**
-
-# How will we use the funds generated from the token sale?
-
-This funds will be used to develop the project:
-- Code audit.
-  - Before anything else, we want to pay for an external audit so you can make sure everything is OK and secure with our contracts. 
-- Initial liquidity in CRO/Stable coins
-  - The initial liquidity for the swap along with the code audit are the 2 most important things we will be able to do with the proceeds of the public sale. The initial liquidity will allow any user to buy/sell tokens from the start increasing the overal experience of the community
-
-- Team growth
-  - As you have seen by now, we have big plans and those plans can be developed exponentialy faster if we grow our team.
-
-# Public sale details
-
-Based on community request the public sale is postponed in order to start the P2E beta-testing before the sale. 
-
-The public sale is divided in 3 phases (levels):
-
-| Level | Start | End | Lock up period | Payout | Available tokens | Price in CRO |Price in USDC|
-|---|---|---|---|---|---|---|---|
-| Level 1 | TBD | TBD | 12 months | 50% + 6 months linear | 5M PLAY | TBD*  |0.1 USDC|
-| Level 2 | TBD | TBD | 6 months | 50% + 3 months linear | 3.75M PLAY | TBD* |0.2 USDC|
-| Level 3 | TBD | TBD | 3 months | 100% | 1.25M PLAY | TBD*|0.4 USDC|
-
-*To make your life easier you can pay with CRO or USDC when buying tokens in the public sale. The CRO price will be defined at the start of each level of the public sale.
-
-
-### Don't know which level to buy-in to?
-Here is a small explanation of each level that can help you understand the risk and reward of each level:
-
-**Level 1**
-- This level is made for the early adopters. You will have a significant discount on the token price, but at the same time, you will also don’t mind having an 12 months lock-up period on your tokens. You believe in our project and know that in 12months, we will be here, developing the roadmap and creating massive value.
-
-**Level 2**
-- The price is higher than phase 1, but the lock-up period is also smaller. Only 6 months. This is a second opportunity for the early adopters who could not buy into the level 1 and for everyone who cannot afford an 12 months lock-up period. The risk is lower, but the potential reward is also smaller, but still massive.
-**If you already bought on level 1, you can buy more tokens at this level.** 
-
-**Level 3**
-- This level has the higher price of all 3 levels, but the lock-up period is also smaller. Only 3 months.
-This is the final opportunity to buy PLAY tokens with a discount.
-**If you already bought on level 1 and 2, you can buy more tokens at this level.** 
-
-## How big is the discount? 
-- The initial liquidity will be set with a price of 0.5 USDC per PLAY token. As you can see the discount of the sale is massive and can generate you massive profits just by holding the tokens.
-
-## Interested? [Click here to buy now](https://playswap.org).
-
-# What do you need to invest?
-
-- First you will need a wallet to interact with the blockchain. We advise you to use MetaMask or Crypto.com Defi wallet.
-- Then you need to send funds to your wallet. The sale will accept CRO or USDC. You can buy them on Crypto.com and transfer them to your MetaMask or Crypto.com Defi wallet 
-To use the blockchain you will always have to pay GAS fees. These fees are paid in CRO. Therefore you should always have a bit of CRO in your wallet. No worries, the GAS fees are small and a balance of 10 CRO is more than enough to keep in your wallet.
-- After you send the funds to your wallet, you just need to visit our website and that's it. 
-
-## Already have a wallet? Click here to buy now.
-
-Let us know if you have any questions and we will be happy to help you.
-
-Join your [Discord](https://discord.gg/8v7Fd7PG9K) and get to know us.
-
-
-
-On a final note, whatever you decide to do,to invest or not. Never invest more than you can afford to lose. This page is not intended as financial advice by any means.
-
+|Discord bot development|Open Beta Cronos Chain|BNB migration|Mainnet launch|Gaming platform development|Gaming platform launch|
+|Oracle development|BNB migration start|Seed sale|Marketing campaigns|Infrastructure improvements|NFT platform development|
+|Swap development|Contacts with private investors|Open Beta 2.0 on BNB chain|Public sale|Marketing campaigns|Strategic partnerships|
+|Open community|Key partnerships|Referral / Guilds system development|Code audit|Marketing campaigns|CEX listing|
+||||DEX listing|||
+||||Platform redesign|||
 
 # Business partnerships
 
-## PlayPool application
+**PlayPool application**
 
-### **What is PlayPools?**
+What is Playpool. Play pools allow users to stake PLAY tokens to earn tokens of other projects for Free. The number of tokens received depends on the number of tokens a user has subscribed to the pool and the total amount of PLAY tokens staked in the pool.
 
-Play pools allows a user to stake PLAY tokens to earn tokens of other projects for Free. The number of tokens received depends on the number of tokens a user has subscribed to the pool and the total amount of PLAY tokens staked in the pool. 
-A user can earn the new token over a set period of time. The user can harvest the pending rewards at any time.
+Users earn the new token over a set period. The user can harvest the pending rewards at any time.
 
-## Why choose PlaySwap?
+**Why choose PlaySwap?**
 
-### - Global exposure
-Get access to the worldwide gaming community.
+* **Global exposure.** Get access to the worldwide gaming community
+* **Liquidity.** Projects launched on PlaySwap will be listed and have access to farms with high rewards to increase the liquidity.
+* **Trading competition.** We can organize a trading competition inside our community to increase your exposure.
+* **Marketing boost.** We will promote your project on our social platforms.
+* **Farms.** Farms stimulate users to provide liquidity for your trading pair by distributing PLAY tokens to your pair's LP token holders. Launchpool is a platform where a project owner can distribute tokens to BNB chain users who stake PLAY tokens in the pool.
+ 
+* **Listing on Playswap.** Anyone can list any BNB token on PlaySwap. There is no need to contact our team or ask for permission. Everything you need to do is to add liquidity to the liquidity pool. Once added, users can trade your token by entering your token's contract address.
 
-### - Liquidity
-Projects launched on PlaySwap will be listed and have access to farms with high rewards to increase the liquidity
+# Team
 
-### - Trading competion
-We can organize a trading competition inside our community to increase your exposure.
+We are an experienced team of Web3 tech and entrepreneurships enthusiasts.
 
-### - Marketing boost
-Your project will be promoted in our social platforms 
+Tiago
+* Bachelor's Degree in IT, previously worked on Mining Pools, contributed to Open Source mining pool projects, reverse engineered asicboost for use in NOMP.
 
-## Farms
-Farms stimulate users to provide liquidity for your trading pair by distributing PLAY tokens to your pair’s LP token holders. Launchpool is a platform where a project owner can distribute tokens to CRONOS users who stake PLAY tokens in the pool. 
+Antoine
+* Serial entrepreneur with 15+ years of experience in the digital marketing industry, focusing on app marketing and gaming. He grew a business from 0 to $60M yearly and 180 employees during his journey and underwent several acquisitions and exits.
 
-When a project applies for PlaySwap Launchpool we can also create a new farming pair (subject to discussion). 
+Miguel
+* Degree in Marketing. 10+ years experience in Digital marketing companies. Previously worked on Mining pools as Co-founder/community and growth.
 
-PlaySwap Launchpool and Farms are platforms that help project teams promote their token and get exposure to the vest Playverse community. We look for strong teams with a clear and innovative vision in the crypto space with special focus in gaming. If you think you are one of the projects, do not wait any longer and apply below. 
+Nico
+* Business strategist and market analyst with over 5 year experience in the Blockchain industry. Previously collaborated with different Defi projects, the latest one was Pinksale launchpad for over 1 year.
 
-## Listing on PlaySwap
+# Contact us
 
-Anyone can list any CRO token on PlaySwap. There is no need to contact our team or ask for permission. Everything you need to do is to add liquidity to the liquidity pool. Once added, users can trade your token by entering your token’s contract address. 
+### - [Discord](https://discord.gg/8v7Fd7PG9K)
+### - [Twitter](https://twitter.com/PlaySwapDeFi)
+### - [Medium](https://medium.com/@PlaySwap)
+### - [Telegram group](https://t.me/PlaySwapDeFi)
+### - [Telegram ANN channel](https://t.me/PlaySwapDefiANN)
+### - [Contact support](https://discord.gg/8v7Fd7PG9K)
 
-### - Is it possible to add my token to the default list?  
-PlaySwap does not accept requests to add tokens to the approved list. In order for your token to be added to the default list, you will need to apply for the Launchpool. 
-
-If you would like to start any of the partnerships above, send us an email to marketing @ playswap.org or contact us directly on [Discord](https://discord.gg/8v7Fd7PG9K).
-
-# Other questions
-
-In the event the above sections do not cover your questions, you can contact us via email to marketing @ playswap.org 
-If you are a gaming content creator looking for a partnership, you can contact us using the same email or inside our  [Discord server](https://discord.gg/8v7Fd7PG9K).
-
-
-### *Beware of scammers! Do not reply to messages sent from unofficial communication channels of PlaySwap. Our team will never DM you first or ask for any private information.*
+*Watch out for fake accounts! The PlaySwap team will never text you first and ask for private keys or individual information!*

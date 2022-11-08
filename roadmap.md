@@ -6,7 +6,7 @@ Crypto moves fast, PlaySwap moves faster. Therefore don't be surprised if we add
 
 11/07/2022: The roadmap as been updated:
 
-|Q1 & Q2 2022|Q3 2022|Q4 2022|Q1 2023|Q2 2023|Q4 2022|
+|Q1 & Q2 2022|Q3 2022|Q4 2022|Q1 2023|Q2 2023|Q4 2023|
 |---|----|---|---|---|---|
 |Discord bot development|Open Beta Cronos Chain|BNB migration|Mainnet launch|Gaming platform development|Gaming platform launch|
 |Oracle development|BNB migration start|Seed sale|Marketing campaigns|Infrastructure improvements|NFT platform development|
