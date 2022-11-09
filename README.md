@@ -1,6 +1,6 @@
 # Project overview
 
-![](assets/images/pswapdoc.jpg)
+![](assets/images/pswapwhite.jpg)
 
 PlaySwap is an innovative infrastructure that bridges mainstream gaming, AAA games included, and Web3 by building an ecosystem that connects both worlds. 
 
