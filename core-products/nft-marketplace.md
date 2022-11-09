@@ -1,3 +1,3 @@
-# Liquidity pool
+# NFT Marketplace
 
 ## Coming soon... 🚀
