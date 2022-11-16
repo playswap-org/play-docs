@@ -1,3 +1,7 @@
+---
+label: Disclaimer
+order: -1
+---
 # Disclaimer
 
 *This document should only be used for marketing purposes. It is not legally binding and is delivered as-is. The contents of this document do not constitute a business prospectus, a solicitation of an investment, or an invitation of any kind. It doesn’t in any way pertain to an invitation or an offer to purchase any ownership, stake, share, future revenue, company participation, or equivalent rights in any authority.*
