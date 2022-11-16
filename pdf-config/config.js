@@ -14,5 +14,5 @@ module.exports = {
 		printBackground: true,
 	},
 	stylesheet_encoding: 'utf-8',
-    dest: 'assets/docs/whitepaper.pdf'
+    dest: 'assets/docs/whitepaper-generated.pdf'
 };
