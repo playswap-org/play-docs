@@ -6,8 +6,10 @@ branding:
   title: PlaySwap
   label: Docs
 links:
-- text: Public Sale
-  link: https://playswap.org
+- text: Twitter
+  link: https://twitter.com/PlaySwapDeFi
+- text: Telegram
+  link: https://t.me/PlaySwapDeFIANN
 - text: Discord
   link: https://discord.gg/8v7Fd7PG9K
 - text: Whitepaper PDF
