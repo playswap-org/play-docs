@@ -273,12 +273,20 @@ There are a total of 200.000.000 (200M) Play tokens.
 | Seed sale | 6% | 600.000 | 0.03 |5|3|12| 12.000.000|
 | Private sale | 12% | 1.680M | 0.055 |7|2|10|24.000.000|
 | Public sale | 3%  | 600.000 | 0.08|10|0|6|6.000.000|
-| Rewards (P2E/Community) | 35% | 2.100.000 ||3|||70.000.000|
-| Marketing | 5% | 1.000.000 ||10|||10.000.000|
-| Ecosystem support | 14% | 0 ||0|||28.000.000|
-| Liquidity | 10% | 3.000.000 ||15|||20.000.000|
+| Rewards (P2E/Community) | 35% | 2.100.000 ||3|N/A*|N/A*|70.000.000|
+| Marketing | 5% | 1.000.000 ||10|N/A*|N/A*|10.000.000|
+| Ecosystem support | 14% | 0 ||0|N/A*|N/A*|28.000.000|
+| Liquidity | 10% | 3.000.000 ||15|N/A*|N/A*|20.000.000|
 |Total|**100**|**8.980.000**|||||**200.000.000**|
 |Listing price |||0.08|||||
+*N/A: Non applicable, these tokens will be released on the block reward during the
+emission of the token.
+
+**Block rewards:**
+* Rewards (P2E/Community)
+* Marketing
+* Ecosystem support
+* Liquidity
 
 **Initial market cap:** $718.400
 
