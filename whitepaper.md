@@ -279,6 +279,7 @@ There are a total of 200.000.000 (200M) Play tokens.
 | Liquidity | 10% | 3.000.000 ||15|N/A*|N/A*|20.000.000|
 |Total|**100**|**8.980.000**|||||**200.000.000**|
 |Listing price |||0.08|||||
+
 *N/A: Non applicable, these tokens will be released on the block reward during the
 emission of the token.
 
